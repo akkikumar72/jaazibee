@@ -19,4 +19,23 @@ user_data/
 
 .continue
 
+.env# Added by codex sync
+bower_components/
+.next/
+.nuxt/
+out/
+build/
+coverage/
 .env
+.env.*
+*.log
+*.pem
+*.key
+*.p12
+*.mobileprovision
+*.cer
+*.crt
+*.pfx
+*.jks
+*.keystore
+secrets.*
